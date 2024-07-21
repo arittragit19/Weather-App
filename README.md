@@ -13,8 +13,8 @@ This is a simple weather application that allows users to check the current weat
 - **Backend:** Utilizes a weather API (e.g., OpenWeatherMap API) to fetch weather data.
 
 ## Screenshots
-![Screenshot 1](C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181839.png)
-![Screenshot 2 (C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181857.png)
+![Screenshot 1] C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181839.png
+![Screenshot 2 C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181857.png
 
 ## Usage
 - Enter the name of a city or location in the search bar and press Enter.
