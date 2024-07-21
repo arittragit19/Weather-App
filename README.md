@@ -11,7 +11,7 @@ This is a simple weather application that allows users to check the current weat
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript.
 - **Backend:** Utilizes a weather API (e.g., OpenWeatherMap API) to fetch weather data.
-- 
+
 ## Screenshots
 ![Screenshot 1](C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181839.png)
 ![Screenshot 2 (C:\Users\HP\Pictures\Screenshots\Screenshot 2024-07-21 181857.png)
